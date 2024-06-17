@@ -1,4 +1,4 @@
-# Mongo and Mongo-express Setup using Kubernetes
+# Mongo-express Setup using Kubernetes
 
 ## commands to run.
 ## Install kubectl and minikube
